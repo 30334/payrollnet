@@ -1,0 +1,2 @@
+C:\Users\mohansu\Desktop\Azure_Devops-Training\Multi Region Deployments Architecture\PayRoll\obj\x86\Debug\payroll.csprojAssemblyReference.cache
+C:\Users\mohansu\Desktop\Azure_Devops-Training\Multi Region Deployments Architecture\PayRoll\obj\x86\Debug\payroll.csproj.CoreCompileInputs.cache
